@@ -8,10 +8,6 @@ image: https://images.hellokids.com/_uploads/_tiny_galerie/20181252/vign-adam-an
 codegameId: AdamAndEve51/
 ---
 
-{% include games-play.html id=page.image %}
-         
-{% include game-embed.html id=page.codegameId %}
-
 # Adam and Eve 5 Unblocked: A Fun Adventure Awaits
 
 ## Introduction to Adam and Eve 5 Unblocked
@@ -79,3 +75,7 @@ Getting started with **Adam and Eve 5 Unblocked** is easy. Follow these simple s
 **Adam and Eve 5 Unblocked** is an exciting and challenging adventure game that combines puzzles with exploration. Whether you're looking for a fun way to kill time or you're a dedicated puzzle solver, this game is sure to entertain. Best of all, it’s completely unblocked, so you can enjoy it without restrictions.
 
 So, what are you waiting for? Start your adventure with Adam and Eve today!
+
+{% include games-play.html id=page.image %}
+         
+{% include game-embed.html id=page.codegameId %}
