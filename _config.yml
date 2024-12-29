@@ -12,12 +12,20 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Blog
-    url: https://www.viralhd.store/news
-  - title: About
-    url: /news/about
-  - title: Search
-    url: /news/search
+  - title: Home
+    url: /
+    
+  - title: Privacy Policy
+    url: /privacy-policy
+
+  - title: Terms and Conditions
+    url: /terms-and-conditions
+
+  - title: Cookie Policy
+    url: /cookie-policy
+    
+  - title: Contact US
+    url: /contact
 
 # Footer icons
 footer_links:
