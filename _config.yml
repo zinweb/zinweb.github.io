@@ -7,22 +7,17 @@ author:
   name: hakerdefo
   url: https://github.com/hakerdefo
 
-url: https://www.viralhd.store/
+url: https://zinweb.github.io/
 baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Home
-    url: /
-    
+
   - title: Privacy Policy
     url: /privacy-policy
 
   - title: Terms and Conditions
     url: /terms-and-conditions
-
-  - title: Cookie Policy
-    url: /cookie-policy
     
   - title: Contact US
     url: /contact
