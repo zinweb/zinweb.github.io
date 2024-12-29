@@ -4,7 +4,7 @@
           <div class="contest-details__thumb-slider">
             <div class="game-iframe-container" id="loadgame">
               <div class="talpa-splash-container" style="background: var(--color2);"><div class="talpa-splash-top"><div>
-                     {% if post.image %}<div data-image="{{ post.image }}" style="background-image:url({{ post.image }})" alt="Stylish Crop Top Trends"> {% endif %}</div>
+                     {% if post.image %}<div style="--thumb:url({{ post.image }})" alt="Stylish Crop Top Trends"></div>{% endif %}
                    <button id="talpa-splash-button" class="SP-splash-button" onclick="loadMainGame()" style="display: block;">PLAY NOW</button>
                    <div class="talpa-loader" style="display: none;">Loading...</div></div></div><div class="talpa-splash-bottom"></div>
               </div>
