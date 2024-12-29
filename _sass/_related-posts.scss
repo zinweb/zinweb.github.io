@@ -1,0 +1,30 @@
+.entry-thumb.lazy-ify{opacity:1}
+.entry-thumb{display:block;position:relative;width:100%;height:100%;background-size:cover;background-position:center center;background-repeat:no-repeat;z-index:1;opacity:0;transition:opacity .35s ease,filter 0s ease}
+.entry-thumb.lazy-ify{opacity:1}
+.entry-image-wrap:hover .entry-thumb,.entry-inner:hover .entry-image-wrap .entry-thumb{filter:brightness(1.05)}
+.post-footer{position:relative;float:left;width:100%;margin:0}
+#related-wrap{position:relative;float:left;width:100%;padding:0;margin:30px 0 0}
+#related-wrap .related-tag{display:none}
+.title-wrap{position:relative;float:left;width:100%;margin:0 0 20px}
+.title-wrap > .title{display:block;font-family:var(--title-font);font-size:16px;color:var(--widget-title-color);font-weight:600;text-transform:uppercase;line-height:1;padding:0;margin:0;float: left;}
+#main-wrapper .title-wrap > .title:after{content:'\f054';display:inline-block;vertical-align:middle;font-family:'Font Awesome 5 Free';font-size:12px;font-weight:900;margin:-2px 0 0 3px}
+.rtl #main-wrapper .title-wrap > .title:after{content:'\f053';margin:0 3px 0 0}
+.supermag-preview-related-content{float:left;width:100%;margin:0}
+.supermag-preview-related-content .loader{height:200px}
+.related-posts{position:relative;display:grid;grid-template-columns:repeat(3,1fr);column-gap:25px;row-gap:25px;margin:0}
+.related-posts .related-item{position:relative;width:100%;display:flex;flex-direction:column;margin:0}
+.related-posts .entry-image-wrap{position:relative;width:100%;height:148px;display:block;overflow:hidden;margin:0 0 10px;border-radius:5px}
+.related-posts .entry-title{font-size:17px;margin:0}
+@media (max-width: 680px) {.related-posts{grid-template-columns:repeat(2,1fr)}}
+@media (max-width: 480px) {
+.related-posts .entry-image-wrap{height:110px;margin:0 0 8px}
+}
+
+@media (max-width: 380px) {
+.related-posts .entry-image-wrap{height:100px}
+.related-posts .entry-image-wrap.is-video:after{transform:translate(50%,-50%) scale(.8)}
+.related-posts .entry-title{font-size:16px}
+}
+@media (max-width: 340px) {
+.related-posts .entry-image-wrap{height:80px}
+}
