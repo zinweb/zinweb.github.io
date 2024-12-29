@@ -69,10 +69,3 @@ Playing **8 Ball Billiards Classic Unblocked** is simple. Here’s how to get st
 ## Conclusion
 
 **8 Ball Billiards Classic Unblocked** is a must-play game for pool lovers and anyone looking for an entertaining online experience. It offers realistic gameplay, easy-to-learn mechanics, and hours of fun, all without any restrictions. So, grab your cue stick and get ready to play!
-
----
-
-<!-- Embed Iframe Game -->
-<div class="game-embed">
-  <iframe src="https://example.com/8-ball-billiards-classic" width="800" height="600" frameborder="0" allowfullscreen></iframe>
-</div>
