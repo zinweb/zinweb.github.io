@@ -3,7 +3,7 @@ layout: post
 title: Valve's Profit Per Employee A David Among Goliaths in Tech
 description: Exploring how Valve's unique business model allows it to outshine tech giants in employee profitability.
 categories: [news, technology]
-slug: /game/:slug/
+slug: /game/valve-profit-per-employee/
 image: https://www.techspot.com/images2/news/bigimage/2024/12/2024-12-26-image-20-j_1100.webp
 ---
 
