@@ -76,9 +76,6 @@ Playing **Adam and Eve 7 Unblocked** is easy, and here's how you can get started
 
 Get ready to help Adam solve new challenges and reunite with Eve in this fun, free, and engaging game. Start your adventure now and see if you have what it takes to complete all the puzzles and obstacles in **Adam and Eve 7 Unblocked**!
 
----
+{% include games-play.html id=page.image %}
 
-<!-- Embed Iframe Game -->
-<div class="game-embed">
-  <iframe src="https://example.com/adam-and-eve-7" width="800" height="600" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include game-embed.html id=page.codegameId %}
