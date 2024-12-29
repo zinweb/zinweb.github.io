@@ -5,6 +5,7 @@ description: "Discover the latest installment of the Adam and Eve series with Ad
 categories: [game]
 slug: adam-and-eve-7-unblocked
 image: https://cdn2.spiele-umsonst.de/flash_thumb/adamandeve7.jpg
+codegameId: AdamAndEve7/
 ---
 
 # Adam and Eve 7 Unblocked: A Thrilling New Puzzle Adventure
