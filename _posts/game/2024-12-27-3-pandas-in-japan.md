@@ -75,5 +75,6 @@ Now it's time to jump into the action and start playing **3 Pandas in Japan** di
 <iframe src="https://www.example.com/3-pandas-in-japan" width="800" height="600" frameborder="0" allowfullscreen></iframe>
 
 
-         {% include games-play.html %}
+{% include games-play.html %}
+         
 {% include game-embed.html id=page.codegameId %}
