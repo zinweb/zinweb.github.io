@@ -75,8 +75,3 @@ Playing **Adam and Eve 6 Unblocked** is easy and simple. Follow these steps:
 The unblocked version of **Adam and Eve 6** makes it accessible to everyone, whether you’re at school, work, or home. So why wait? Start playing now, and see if you have what it takes to help Adam reunite with Eve and complete the adventure!
 
 ---
-
-<!-- Embed Iframe Game -->
-<div class="game-embed">
-  <iframe src="https://example.com/adam-and-eve-6" width="800" height="600" frameborder="0" allowfullscreen></iframe>
-</div>
