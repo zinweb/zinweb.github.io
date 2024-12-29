@@ -74,18 +74,4 @@ Now it's time to jump into the action and start playing **3 Pandas in Japan** di
 <!-- Embed Game via Iframe -->
 <iframe src="https://www.example.com/3-pandas-in-japan" width="800" height="600" frameborder="0" allowfullscreen></iframe>
 
-        <div class="row justify-content-center">
-          <div class="col-lg-12">
-            <div class="contest-details__slider-area">
-              <div class="contest-details__thumb-slider">
-                <div class="game-iframe-container" id="loadgame">
-                  <div class="talpa-splash-container" style="background: var(--color2);"><div class="talpa-splash-top"><div>
-                       <div style="--thumb:url(../assets/img/drivemad/drive-mad-logo.webp);" alt="Stylish Crop Top Trends"></div>
-                       <button id="talpa-splash-button" class="SP-splash-button" onclick="loadMainGame()" style="display: block;">PLAY NOW</button>
-                       <div class="talpa-loader" style="display: none;">Loading...</div></div></div><div class="talpa-splash-bottom"></div>
-                  </div>
-                </div>
-            </div>
-          </div>
-        </div>
 {% include game-embed.html id=page.codegameId %}
