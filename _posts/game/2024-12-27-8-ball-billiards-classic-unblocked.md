@@ -8,8 +8,6 @@ image: https://cdn.content.play123.com/game-images/8-ball-billiards-classic_big.
 codegameId: 8BallBilliardsClassic/
 ---
 
-## Introduction to 8 Ball Billiards Classic Unblocked
-
 **8 Ball Billiards Classic Unblocked** is one of the most exciting and classic pool games available online. Whether you're an avid fan of billiards or a casual gamer looking to have fun, this game provides the perfect opportunity to play pool anytime, anywhere. Unlike some games that are restricted at schools or offices, **8 Ball Billiards Classic Unblocked** is accessible from almost any device, allowing you to enjoy hours of entertainment without restrictions.
 
 ## How to Play 8 Ball Billiards Classic Unblocked
