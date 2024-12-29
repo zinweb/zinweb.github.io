@@ -73,4 +73,4 @@ Now it's time to jump into the action and start playing **3 Pandas in Japan** di
 <!-- Embed Game via Iframe -->
 <iframe src="https://www.example.com/3-pandas-in-japan" width="800" height="600" frameborder="0" allowfullscreen></iframe>
 
-{% include spotify-embed.html playlist_id="3PandasInJapan/" %}
+{% include game-embed.html code_id="3PandasInJapan/" %}
