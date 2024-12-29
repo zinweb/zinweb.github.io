@@ -7,43 +7,7 @@ slug: "3-pandas-in-japan"
 image: "/assets/images/3-pandas-in-japan-cover.jpg"
 codegameId: 3PandasInJapan/
 ---
-
-
-
-<div class="row justify-content-center">
-      <div class="col-lg-12">
-        <div class="contest-details__slider-area">
-          <div class="contest-details__thumb-slider">
-            <div class="game-iframe-container" id="loadgame">
-              <div class="talpa-splash-container" style="background: var(--color2);"><div class="talpa-splash-top"><div>
-                   <div style="--thumb:url(../assets/img/drivemad/drive-mad-logo.webp);" alt="Stylish Crop Top Trends"></div>
-                   <button id="talpa-splash-button" class="SP-splash-button" onclick="loadMainGame()" style="display: block;">PLAY NOW</button>
-                   <div class="talpa-loader" style="display: none;">Loading...</div></div></div><div class="talpa-splash-bottom"></div>
-              </div>
-            </div>
-        </div>
-      </div>
-    </div> <script type="text/javascript">
-        function loadMainGame(){
-        var html = `<iframe class="game-iframe iframeloader" id="game-area" src="https://webmagz.github.io/3PandasInJapan/" width="480" height="800" scrolling="none" frameborder="0" allowfullscreen="" tabindex="0"></iframe>`;
-        document.getElementById("loadgame").innerHTML = html;
-        document.getElementById("fullscreenButton").style.display = "inline-flex";
-	    
-        document.getElementById('loadgame').scrollIntoView();
-        }
-        function open_fullscreen() {
-            let game = document.getElementById("game-area");
-            if (game.requestFullscreen) {
-                game.requestFullscreen();
-            } else if (game.mozRequestFullScreen) { 
-                game.mozRequestFullScreen();
-            } else if (game.webkitRequestFullscreen) { 
-                game.webkitRequestFullscreen();
-            } else if (game.msRequestFullscreen) { 
-                game.msRequestFullscreen();
-            }
-            }; </script>
-            
+         
 # 3 Pandas in Japan: A Fun Puzzle Adventure Game
 
 ## Introduction to 3 Pandas in Japan
