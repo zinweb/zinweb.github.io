@@ -44,7 +44,7 @@ timezone: Asia/Kolkata
 #
 
 # permalink: pretty
-permalink: /:slug/
+permalink: /:categories/:slug/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
