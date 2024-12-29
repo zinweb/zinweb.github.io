@@ -71,6 +71,6 @@ Don't miss out on this captivating game – give **3 Pandas in Japan** a try tod
 
 Now it's time to jump into the action and start playing **3 Pandas in Japan** directly below! Enjoy the game and see how well you can solve its puzzles.
 
-{% include games-play.html id=page.image %}
+{% include games-play.html %}
          
 {% include game-embed.html id=page.codegameId %}
