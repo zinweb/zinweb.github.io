@@ -87,7 +87,5 @@ Now it's time to jump into the action and start playing **3 Pandas in Japan** di
                 </div>
             </div>
           </div>
-        </div><!-- row end -->
-	  
-		 
-{% include game-embed.js id=page.codegameId %}
+        </div>
+{% include game-embed.html id=page.codegameId %}
