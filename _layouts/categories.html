@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+  <main class="posts">
+    {% for post in paginator.posts %}
+    <article class="postz">
+      <div class="post-image">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+        {% if post.image %} <img class="postthumb" src="{{ post.image }}" alt="{{ post.title }}">{% endif %}
+         </a>
+      </div>
+      <div class="post-content">
+       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="excerpt">{{ post.description | truncate: 100 }}</p>
+      </div>
+    </article>
+  {% endfor %}
+      {% include pagination.html %}
+  </main>
