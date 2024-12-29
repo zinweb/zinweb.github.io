@@ -5,6 +5,7 @@ description: "Discover the exciting and challenging puzzle game '3 Pandas in Jap
 categories: [game]
 slug: "3-pandas-in-japan"
 image: "/assets/images/3-pandas-in-japan-cover.jpg"
+codegameId: 3PandasInJapan/
 ---
 
 # 3 Pandas in Japan: A Fun Puzzle Adventure Game
@@ -73,4 +74,4 @@ Now it's time to jump into the action and start playing **3 Pandas in Japan** di
 <!-- Embed Game via Iframe -->
 <iframe src="https://www.example.com/3-pandas-in-japan" width="800" height="600" frameborder="0" allowfullscreen></iframe>
 
-{% include game-embed.html code_id="3PandasInJapan/" %}
+{% include game-embed.html id=page.codegameId %}
