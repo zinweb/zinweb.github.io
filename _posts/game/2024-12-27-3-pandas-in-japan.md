@@ -7,8 +7,6 @@ slug: "3-pandas-in-japan"
 image: "https://ubg98.github.io/assets/img/games/3-pandas-in-japan.png"
 codegameId: 3PandasInJapan/
 ---
-         
-# 3 Pandas in Japan: A Fun Puzzle Adventure Game
 
 ## Introduction to 3 Pandas in Japan
 
