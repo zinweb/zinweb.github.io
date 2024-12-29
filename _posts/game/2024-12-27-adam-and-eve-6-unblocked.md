@@ -5,9 +5,14 @@ description: "Play Adam and Eve 6 Unblocked and help Adam embark on his latest j
 categories: [game]
 slug: adam-and-eve-6-unblocked
 image: "https://ubg98.github.io/assets/img/games/adam-and-eve-6.png"
+codegameId: AdamAndEve6/
 ---
 
 ## Introduction to Adam and Eve 6 Unblocked
+
+{% include games-play.html id=page.image %}
+         
+{% include game-embed.html id=page.codegameId %}
 
 **Adam and Eve 6 Unblocked** is the latest installment in the beloved **Adam and Eve** series, offering players a new chapter of puzzles, adventure, and mystery. This exciting sequel follows Adam on his journey through new environments, solving intricate puzzles and overcoming obstacles in his quest to reunite with Eve.
 
