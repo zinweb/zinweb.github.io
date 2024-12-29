@@ -4,7 +4,7 @@ title: "Adam and Eve 5 P2 Unblocked: The Ultimate Adventure Continues"
 description: "Play Adam and Eve 5 P2 Unblocked and continue your journey with Adam in this exciting puzzle adventure game. Solve challenging puzzles, unlock new paths, and reunite with Eve."
 categories: [game]
 slug: adam-and-eve-5-p2-unblocked
-image: "/assets/img/adam-and-eve-5-p2-unblocked.jpg"
+image: https://ubg98.github.io/assets/img/games/adam-and-eve-52.png
 codegameId: AdamAndEve52/
 ---
 
