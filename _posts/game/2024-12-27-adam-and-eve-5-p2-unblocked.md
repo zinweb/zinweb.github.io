@@ -8,10 +8,6 @@ image: https://ubg98.github.io/assets/img/games/adam-and-eve-52.png
 codegameId: AdamAndEve52/
 ---
 
-{% include games-play.html id=page.image %}
-         
-{% include game-embed.html id=page.codegameId %}
-
 # Adam and Eve 5 P2 Unblocked: The Ultimate Adventure Continues
 
 ## Introduction to Adam and Eve 5 P2 Unblocked
@@ -79,3 +75,8 @@ Playing **Adam and Eve 5 P2 Unblocked** is easy. Just follow these simple steps:
 **Adam and Eve 5 P2 Unblocked** is a thrilling puzzle-adventure game that will challenge your wits and provide endless hours of entertainment. Whether you’re a fan of the **Adam and Eve** series or you’re just looking for a fun, unblocked game to play, this game is perfect for you. Solve puzzles, explore new environments, and help Adam find his way back to Eve.
 
 With its engaging gameplay and accessible, unblocked version, **Adam and Eve 5 P2 Unblocked** is sure to be a hit. So what are you waiting for? Dive into the adventure today and see if you have what it takes to help Adam and Eve reunite!
+
+
+{% include games-play.html id=page.image %}
+         
+{% include game-embed.html id=page.codegameId %}
