@@ -9,9 +9,6 @@ codegameId: 3PandasInJapan/
 ---
 
 {% include games-play.html id=page.image %}
-         
-{% include game-embed.html id=page.codegameId %}
-
 ## Introduction to 3 Pandas in Japan
 
 If you’re a fan of puzzle games that challenge your logic while offering an engaging storyline, **3 Pandas in Japan** is a must-try! This delightful adventure game takes you through the scenic landscapes of Japan, where you’ll help three adorable pandas navigate tricky obstacles, solve puzzles, and overcome various challenges. Whether you’re a seasoned puzzle player or a casual gamer, this game offers something for everyone.
@@ -61,14 +58,8 @@ You can play **3 Pandas in Japan** online on various gaming websites or download
 
 [Play 3 Pandas in Japan Online](#)
 
-## Conclusion
-
 In conclusion, **3 Pandas in Japan** is a highly enjoyable puzzle adventure game that offers a perfect mix of challenge, fun, and storytelling. Whether you're a fan of puzzle games or just looking for something light-hearted to pass the time, this game will provide hours of entertainment. Help the three pandas navigate their way through Japan, solve clever puzzles, and enjoy the adventure!
 
 Don't miss out on this captivating game – give **3 Pandas in Japan** a try today and see if you can help the pandas find their way home!
 
----
-
-### Play 3 Pandas in Japan
-
-Now it's time to jump into the action and start playing **3 Pandas in Japan** directly below! Enjoy the game and see how well you can solve its puzzles.
+{% include game-embed.html id=page.codegameId %}
