@@ -10,10 +10,6 @@ codegameId: AdamAndEve6/
 
 ## Introduction to Adam and Eve 6 Unblocked
 
-{% include games-play.html id=page.image %}
-         
-{% include game-embed.html id=page.codegameId %}
-
 **Adam and Eve 6 Unblocked** is the latest installment in the beloved **Adam and Eve** series, offering players a new chapter of puzzles, adventure, and mystery. This exciting sequel follows Adam on his journey through new environments, solving intricate puzzles and overcoming obstacles in his quest to reunite with Eve.
 
 The unblocked version of **Adam and Eve 6** allows you to play this exciting game without restrictions, making it perfect for gaming during breaks, school, or work. Whether you’re a fan of the series or a newcomer, this game provides a fresh and challenging experience for all players.
@@ -78,3 +74,7 @@ Playing **Adam and Eve 6 Unblocked** is easy and simple. Follow these steps:
 The unblocked version of **Adam and Eve 6** makes it accessible to everyone, whether you’re at school, work, or home. So why wait? Start playing now, and see if you have what it takes to help Adam reunite with Eve and complete the adventure!
 
 ---
+
+{% include games-play.html id=page.image %}
+         
+{% include game-embed.html id=page.codegameId %}
