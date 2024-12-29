@@ -7,7 +7,7 @@
     </div>
     <div class="supermag-preview-related-content">
       <div class="related-posts">
-        {% for post in site.related_posts limit:3 %}
+        {% for post in site.related_posts limit:6 %}
         <div class="related-item post item-{{ forloop.index0 }}">
           <a title="{{ post.title }}" class="entry-image-wrap is-video" href="{{ site.baseurl }}{{ post.url }}">
             {% if post.image %}
