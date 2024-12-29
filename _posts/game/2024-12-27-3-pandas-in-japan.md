@@ -4,7 +4,7 @@ title: "3 Pandas in Japan: A Fun Puzzle Adventure Game"
 description: "Discover the exciting and challenging puzzle game '3 Pandas in Japan'. Help the three pandas navigate through various levels of Japan in this adventurous journey!"
 categories: [game]
 slug: "3-pandas-in-japan"
-image: "/assets/images/3-pandas-in-japan-cover.jpg"
+image: https://ubg98.github.io/assets/img/games/3-pandas-in-japan.png
 codegameId: 3PandasInJapan/
 ---
          
