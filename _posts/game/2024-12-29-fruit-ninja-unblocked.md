@@ -8,8 +8,6 @@ image: https://cdn.content.play123.com/game-images/fruit-ninja_big.webp
 codegameId: FruitNinja
 ---
 
-# Fruit Ninja Unblocked: Slice Your Way to Fun with This Classic Game
-
 ## Introduction to Fruit Ninja Unblocked
 
 **Fruit Ninja Unblocked** is the ultimate arcade game that combines speed, skill, and excitement. Whether you're a seasoned gamer or a beginner, this unblocked version of the classic **Fruit Ninja** offers endless hours of fun. With its simple yet engaging mechanics, Fruit Ninja has become a beloved game across all platforms, and the unblocked version allows you to play it anywhere, anytime – no restrictions!
@@ -72,15 +70,11 @@ The goal of **Fruit Ninja Unblocked** is to achieve the highest score possible. 
 - **Practice Makes Perfect**: The more you play, the better you’ll get at reacting quickly and slicing fruit accurately.
 - **Watch for Combo Opportunities**: Some fruits appear in pairs or groups, so try to slice multiple fruits at once to rack up big points.
 
-## Conclusion
 
 **Fruit Ninja Unblocked** is a timeless arcade game that offers hours of entertainment for players of all skill levels. With its simple mechanics, vibrant graphics, and addictive gameplay, it's no wonder that **Fruit Ninja** has become one of the most popular mobile games of all time. The unblocked version lets you enjoy this game without any restrictions, making it perfect for playing at school, work, or at home.
 
 So, what are you waiting for? Grab your virtual sword and start slicing some fruit today. Whether you’re looking for a quick gaming session or a way to challenge yourself, **Fruit Ninja Unblocked** is sure to provide plenty of fun!
 
----
+{% include games-play.html id=page.image %}
 
-<!-- Embed Iframe Game -->
-<div class="game-embed">
-  <iframe src="https://example.com/fruit-ninja-unblocked" width="800" height="600" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include game-embed.html id=page.codegameId %}
