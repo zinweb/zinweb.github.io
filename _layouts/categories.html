@@ -2,26 +2,32 @@
 layout: default
 ---
 
-<main class="posts">
-  {% assign current_category = page.category %}
-  <h1>Posts in Category: {{ current_category }}</h1>
+<!-- Category title -->
+<h1>Category: {{ page.category }}</h1>
 
-  {% for post in site.posts %}
-    {% if post.categories contains current_category %}
-      <article class="postz">
-        <div class="post-image">
-          <a href="{{ site.baseurl }}{{ post.url }}">
-          {% if post.image %}
-            <img class="postthumb" src="{{ post.image }}" alt="{{ post.title }}">
-          {% endif %}
-          </a>
-        </div>
-        <div class="post-content">
-          <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-          <p class="excerpt">{{ post.description | truncate: 100 }}</p>
-        </div>
-      </article>
-    {% endif %}
-  {% endfor %}
-  {% include pagination.html %}
-</main>
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <article>
+    <header>
+      <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+    </header>
+    <div class="entry-content">
+      {{ post.excerpt }}
+    </div>
+  </article>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next">Next</span>
+  {% endif %}
+</div>
