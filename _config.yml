@@ -68,6 +68,9 @@ kramdown:
 paginate: 10
 paginate_path: "/page/:num/"
 
+paginate_category_basepath: '/page/:num/'
+paginate_category_layout: 'categories.html'
+
 # Set the Sass partials directory, as we're using @imports
 sass:
   sass_dir: _sass
