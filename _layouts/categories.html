@@ -3,7 +3,7 @@ layout: default
 ---
 
 <main class="posts">
-  {% for post in paginator.posts %}
+  {% assign current_category = page.category %}
   <h1>Posts in Category: {{ current_category }}</h1>
 
   {% for post in site.posts %}
