@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem "jekyll-gist"
   gem "jekyll-paginate"
+  gem "jekyll-paginate-categories"
   gem "jekyll-seo-tag"
   gem "jemoji"
   gem "webrick"
